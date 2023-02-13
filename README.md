@@ -1,5 +1,3 @@
-### Merdan Durdyyev
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="100"/>
 
@@ -30,7 +28,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkmenistan :turkmenistan:.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer at [Woven](https://www.woventeams.com/) and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
