@@ -90,4 +90,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Rails Service Objects — A Guide and an Example](https://dev.to/eminarium/rails-service-objects-a-guide-and-an-example-55j4)
+- [Check whether a number is prime - Ruby](https://dev.to/eminarium/check-whether-a-number-is-prime-ruby-4dc7)
+- [Send SMS with Ruby Mechanize gem](https://dev.to/eminarium/send-sms-with-ruby-mechanize-gem-oni)
+- [Ruby’s precious gems](https://dev.to/eminarium/ruby-s-precious-gems-4bo7)
 <!-- BLOG-POST-LIST:END -->
