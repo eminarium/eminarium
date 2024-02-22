@@ -29,12 +29,27 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkmenistan :turkmenistan:.
 
 - :telescope: I’m working as a Software Engineer at [Woven](https://www.woventeams.com/) and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a freelance QA Engineer at [Vueschoo.io](https://vueschool.io/), evaluating candidate exams for Vue.js certification. 
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on [Exercism](https://exercism.org/profiles/mdzine), read and write tech articles on [Dev.to](https://dev.to/eminarium) and [Medium](https://www.linkedin.com/in/merdan-durdyyev-a7b53a98).
 
 - :mailbox: Reach me at: merdan.durdiyev@gmail.com
+
+---
+
+## ©️: Clone Mania :
+
+I'm in love with writing clones of existing widely known web applications in my free time.
+
+<div>
+    <a href="https://www.linkedin.com/in/merdan-durdyyev-a7b53a98/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+</div>
+
+- 1️⃣: This one is a [Linkedin clone](https://github.com/eminarium/linkedin-clone-ss), developed with React, Redux, and Firebase.
 
 ---
 
