@@ -51,6 +51,17 @@ I'm in love with writing clones of existing widely known web applications in my 
 
 - 1️⃣: This one is a [Linkedin clone](https://github.com/eminarium/linkedin-clone-ss), developed with React, Redux, and Firebase.
 
+<div>
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</div>
+
+- 1️⃣: This one is a [Gmail clone](https://github.com/eminarium/gmail-clone-ss), developed with React, Redux, MaterialUI, styled-components, and Firebase.
+
+<div>
+  <img src="https://img.shields.io/badge/Slack-whitesmoke?style=for-the-badge&logo=slack&logoColor=orange" alt="Slack Badge"/>
+</div>
+
+- 1️⃣: This one is a [Slack clone](https://github.com/eminarium/slack-clone-yt), developed with React, Redux, MaterialUI, styled-components, and Firebase.
 ---
 
 ## :hammer_and_wrench: My Skills :
